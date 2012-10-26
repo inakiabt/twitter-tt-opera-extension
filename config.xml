@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget xmlns="http://www.w3.org/ns/widgets" id="extensions:twitter-trending-topics" version="1.0.0">
+  <name>Twitter Trending Topics</name>
+  <description>Show Twitter Trending Topics from Opera's extension popup.</description>
+  <access origin="https://api.twitter.com"/>
+</widget>
